@@ -1,1 +1,9 @@
-Hola mundo!
+This work is an implementation of the A* algorithm applyed on a Mesh graph, ideal for a Game Engine. A Skiplist was used for the close list, combined with a array. I hope it can be usefull for future works.
+
+To install use:
+
+./configure
+make
+sudo make install
+
+If you got this code from a git repo, use autoreconf --install before enter the ./configure step.
